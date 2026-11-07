@@ -1,0 +1,9 @@
+# rake-back
+
+Audit rake back using eligible rake, excluded amounts, a credit cap and fees. Compare the headline rate with net credit and effective return on total rake.
+
+## Main page
+- [rake back](https://bonsaionlinecas-sys.github.io/rake-back/): Audit rake back using eligible rake, excluded amounts, a credit cap and fees. Compare the headline rate with net credit and effective return on total rake.
+
+## Method and scope
+One self-contained page with an interactive tool, visible worked examples, limitations and questions. No accounts or financial transactions. Inputs are processed locally in the browser.
